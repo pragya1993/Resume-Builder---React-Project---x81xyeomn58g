@@ -70,10 +70,7 @@ const App = () => {
       });
     };
     
-    
-
-
-
+  
   return (
     <div id="main">
       <Form handler={handleInput} submit={submitForm} buttondata={buttondata} />
